@@ -1,10 +1,9 @@
-What:		The kernel syscall interface
+What:		The NON
 Description:
-	This interface matches much of the POSIX interface and is based
-	on it and other Unix based interfaces.  It will only be added to
-	over time, and not have things removed from it.
+	a of the  intce and is bad
+	on it and other nix bsed interf  It will only beded to
+	over time, and not have things from it.
 
-	Note that this interface is different for every architecture
-	that Linux supports.  Please see the architecture-specific
-	documentation for details on the syscall numbers that are to be
-	mapped to each syscall.
+	that this iffrent forchitecture
+	that Plase see the architecturecific
+	documation
